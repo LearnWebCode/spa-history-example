@@ -1,1 +1,0 @@
-# spa-history-example
